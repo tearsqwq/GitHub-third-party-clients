@@ -1,0 +1,12 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="1024"
+    android:viewportHeight="1024">
+    <!-- 首页 - 空心版本 -->
+    <path
+        android:pathData="M555.54,117.99l312.88,224.57c29.47,21.14 47.91,55.63 47.91,95.3V800c0,64.8 -52.53,117.33 -117.33,117.33h-160V746.67c0,-70.69 -57.31,-128 -128,-128s-128,57.31 -128,128v170.67h-160c-64.8,0 -117.33,-52.53 -117.33,-117.33V437.88c0,-39.67 18.44,-74.16 47.92,-95.32l312.87,-224.56c27.36,-19.65 64.47,-19.65 91.83,0zM555.54,117.99"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="70"
+        android:fillColor="#00000000"/>
+</vector>
